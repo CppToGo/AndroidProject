@@ -1,6 +1,9 @@
 <resources>
-    <string name="app_name">My First Application hahaha </string>
+    <string name="app_name">Johnny</string>
     <string name="edit_message">Please input a message</string>
     <string name="butten_text">Send</string>
     <string name="action_settings">Do something</string>
+    <string name="FingerPrint">指纹验证</string>
+    <string name="FingerPrintDetaile">描述</string>
+    <string name="Cancel">取消</string>
 </resources>
