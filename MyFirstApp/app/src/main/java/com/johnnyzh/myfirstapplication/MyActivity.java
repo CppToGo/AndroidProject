@@ -58,6 +58,7 @@ public class MyActivity extends AppCompatActivity {
             @Override
             public void onAuthenticationError(int errorCode, CharSequence errString) {
                 super.onAuthenticationError(errorCode, errString);
+                finish();
                 Log.i(TAG , "onAuthenticationError" + errString);
             }
 
